@@ -1,0 +1,5 @@
+f=open("test.txt","a")
+f.write("This is the appended text")
+f.close()
+f=open("test.txt","r")
+print(f.read())

@@ -1,0 +1,5 @@
+thistuple = ("apple", "banana", "cherry", "orange", "kiwi", "melon", "mango")
+print("the 4th element is :")
+print(thistuple[4])
+print("the -4th element is :")
+print(thistuple[-4])
